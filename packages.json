@@ -1,0 +1,11 @@
+{
+	"font_sugar": {
+		"files": [
+			{
+				"name": "font.js",
+				"path": "joncom/font-sugar",
+				"url": "https://raw.github.com/Joncom/impact-font-sugar/master/font.js"
+			}
+		]
+	}
+}
