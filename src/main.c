@@ -47,7 +47,7 @@ void make_sure_dir_exists(const char *path) {
 }
 
 void showUsage() {
-	printf("usage: ipm [command] [arg]\n");
+	printf("usage: imp [command] [arg]\n");
 	printf("commands:\n");
 	printf("\tnew - create a new impactjs project\n");
 	printf("\tremote [downloadurl] - set url for your impact source files\n");

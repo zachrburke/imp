@@ -1,5 +1,5 @@
 # What to call the final executable
-TARGET = ipm
+TARGET = imp
 
 # Which object files that the executable consists of
 OBJS= src/main.o src/package.o src/http.o
